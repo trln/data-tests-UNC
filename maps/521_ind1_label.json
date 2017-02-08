@@ -1,9 +1,9 @@
 {
  " " : "Audience: ",
- "0" : "Grade level (reading): ",
- "1" : "Age level (interest): ",
- "2" : "Grade level (interest): ",
- "3" : "Audience: ",
- "4" : "Audience: ",
+ "0" : "Reading level grade: ",
+ "1" : "Interest level age: ",
+ "2" : "Interest level grade: ",
+ "3" : "Audience characteristics: ",
+ "4" : "Audience motivation level: ",
  "8" : ""
  }
