@@ -4,3 +4,4 @@ Holding place for records to support automated testing of data transformation pr
 | bnum | included because |
 | ---- | ---------------- |
 | b7901925 | 344abghh |
+| b7299422 | 347ab3, rep field |
