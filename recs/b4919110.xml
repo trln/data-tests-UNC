@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+<collection xmlns='http://www.loc.gov/MARC21/slim' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd'>
+  <record>
+    <leader>00000npc  2200277Ia 4500</leader>
+      <controlfield tag='008'>061102s1945    enk                 eng d</controlfield>
+      <controlfield tag='001'>74841807</controlfield>
+      <controlfield tag='003'>OCoLC</controlfield>
+      <controlfield tag='005'>20061102032811.0</controlfield>
+      <datafield ind1=' ' ind2=' ' tag='040'>
+        <subfield code='a'>NOC</subfield>
+        <subfield code='c'>NOC</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='049'>
+        <subfield code='a'>NOCR</subfield>
+      </datafield>
+      <datafield ind1='0' ind2='0' tag='245'>
+        <subfield code='a'>[Service medals for the Battle of the Atlantic :</subfield>
+        <subfield code='b'>awarded posthumously to Temporary Lieutenant Michael Thomas Carey Sadler, RNVR]</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='260'>
+        <subfield code='c'>[1945?]</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='300'>
+        <subfield code='a'>4 items ;</subfield>
+        <subfield code='c'>4-15 cm.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='340'>
+        <subfield code='3'>Military service medallions</subfield>
+        <subfield code='a'>bronze or silver with ribbons</subfield>
+        <subfield code='b'>4-5 cm.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='351'>
+        <subfield code='3'>Three medallions and accompanying printed materials in box.</subfield>
+      </datafield>
+      <datafield ind1='0' ind2=' ' tag='505'>
+        <subfield code='a'>Atlantic star with ribbon. - 1939-1945 star with ribbon. - War medal, 1939-1945, with ribbon. - Printed message of transmission from Secretary of the Admiralty, with condolences.</subfield>
+      </datafield>
+      <datafield ind1='8' ind2=' ' tag='520'>
+        <subfield code='a'>Michael Thomas Carey Sadler was the son of novelist and bibliophile  Michael Sadleir. Sadler was born in 1916, attended Highfield School, Baliol College, Oxford; was a member of the Royal Navy Volunteer Reserve, and was killed in action in 1942.</subfield>
+      </datafield>
+      <datafield ind1='1' ind2='0' tag='600'>
+        <subfield code='a'>Sadler, Michael Thomas Carey,</subfield>
+        <subfield code='d'>1916-1942.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2='0' tag='650'>
+        <subfield code='a'>Military services</subfield>
+        <subfield code='x'>Medals, badges, decorations, etc.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2='0' tag='650'>
+        <subfield code='a'>World War, 1939-1945</subfield>
+        <subfield code='x'>Medals.</subfield>
+      </datafield>
+      <datafield ind1='1' ind2=' ' tag='700'>
+        <subfield code='a'>Sadleir, Michael,</subfield>
+        <subfield code='d'>1888-1957,</subfield>
+        <subfield code='e'>former owner.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='907'>
+        <subfield code='a'>.b4919110x</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='915'>
+        <subfield code='9'>Baseline 9_2013</subfield>
+        <subfield code='9'>Under Authority Control</subfield>
+      </datafield>
+      <datafield ind1='9' ind2='1' tag='999'>
+        <subfield code='i'>i6503459</subfield>
+        <subfield code='l'>wcda</subfield>
+        <subfield code='s'>o</subfield>
+        <subfield code='t'>0</subfield>
+        <subfield code='c'>1</subfield>
+        <subfield code='o'>0</subfield>
+        <subfield code='b'>00027187570</subfield>
+        <subfield code='p'>090</subfield>
+        <subfield code='q'>|aUB435.G7|bS3 1945</subfield>
+      </datafield>
+      <datafield ind1='9' ind2='2' tag='999'>
+        <subfield code='a'>c4670601</subfield>
+        <subfield code='b'>wcda</subfield>
+        <subfield code='c'>0</subfield>
+      </datafield>
+      <datafield ind1='9' ind2='3' tag='999'>
+        <subfield code='0'>c4670601</subfield>
+        <subfield code='2'>852</subfield>
+        <subfield code='3'>c</subfield>
+        <subfield code='b'>wcda</subfield>
+        <subfield code='h'>UB435.G7</subfield>
+        <subfield code='i'>S3 1945</subfield>
+      </datafield>
+      <datafield ind1='9' ind2='3' tag='999'>
+        <subfield code='0'>c4670601</subfield>
+        <subfield code='2'>852</subfield>
+        <subfield code='3'>e</subfield>
+        <subfield code='p'>00027187570</subfield>
+        <subfield code='t'>1</subfield>
+        <subfield code='x'>rae</subfield>
+      </datafield>
+  </record>
+</collection>
