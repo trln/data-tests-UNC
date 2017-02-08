@@ -1,0 +1,362 @@
+<?xml version='1.0'?>
+<collection xmlns='http://www.loc.gov/MARC21/slim' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd'>
+  <record>
+    <leader>00000cgm a2200961Ii 4500</leader>
+      <controlfield tag='007'>vd csaizq</controlfield>
+      <controlfield tag='008'>140715s2014    cau104 g          vleng d</controlfield>
+      <controlfield tag='001'>883678454</controlfield>
+      <controlfield tag='003'>OCoLC</controlfield>
+      <controlfield tag='005'>20141006022719.0</controlfield>
+      <datafield ind1=' ' ind2=' ' tag='019'>
+        <subfield code='a'>882563639</subfield>
+      </datafield>
+      <datafield ind1='1' ind2=' ' tag='024'>
+        <subfield code='a'>024543928102</subfield>
+      </datafield>
+      <datafield ind1='1' ind2=' ' tag='024'>
+        <subfield code='a'>024543928119</subfield>
+      </datafield>
+      <datafield ind1='4' ind2='2' tag='028'>
+        <subfield code='a'>2292810</subfield>
+        <subfield code='b'>20th Century Fox Home Entertainment</subfield>
+      </datafield>
+      <datafield ind1='4' ind2='2' tag='028'>
+        <subfield code='a'>2292811</subfield>
+        <subfield code='b'>20th Century Fox Home Entertainment</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='035'>
+        <subfield code='a'>(OCoLC)883678454</subfield>
+        <subfield code='z'>(OCoLC)882563639</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='040'>
+        <subfield code='a'>TEFMT</subfield>
+        <subfield code='b'>eng</subfield>
+        <subfield code='e'>rda</subfield>
+        <subfield code='c'>TEFMT</subfield>
+        <subfield code='d'>TEF</subfield>
+        <subfield code='d'>TEFMT</subfield>
+        <subfield code='d'>GK5</subfield>
+        <subfield code='d'>IH7</subfield>
+        <subfield code='d'>BDX</subfield>
+        <subfield code='d'>EMU</subfield>
+        <subfield code='d'>IUL</subfield>
+        <subfield code='d'>NOC</subfield>
+      </datafield>
+      <datafield ind1='1' ind2=' ' tag='041'>
+        <subfield code='a'>eng</subfield>
+        <subfield code='a'>fre</subfield>
+        <subfield code='a'>por</subfield>
+        <subfield code='a'>spa</subfield>
+        <subfield code='a'>tur</subfield>
+        <subfield code='j'>bul</subfield>
+        <subfield code='j'>chi</subfield>
+        <subfield code='j'>eng</subfield>
+        <subfield code='j'>hrv</subfield>
+        <subfield code='j'>heb</subfield>
+        <subfield code='j'>hin</subfield>
+        <subfield code='j'>kor</subfield>
+        <subfield code='j'>pol</subfield>
+        <subfield code='j'>por</subfield>
+        <subfield code='j'>rum</subfield>
+        <subfield code='j'>slv</subfield>
+        <subfield code='j'>spa</subfield>
+        <subfield code='j'>srp</subfield>
+        <subfield code='j'>tur</subfield>
+        <subfield code='h'>eng</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='043'>
+        <subfield code='a'>e-uk-en</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='046'>
+        <subfield code='k'>2013</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='049'>
+        <subfield code='a'>[Blu-ray]NOC3</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2='4' tag='050'>
+        <subfield code='a'>PN1997.2</subfield>
+        <subfield code='b'>.B45 2014</subfield>
+      </datafield>
+      <datafield ind1='0' ind2='4' tag='082'>
+        <subfield code='a'>791.43/72</subfield>
+        <subfield code='2'>23</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2='9' tag='099'>
+        <subfield code='a'>65-BLU159</subfield>
+      </datafield>
+      <datafield ind1='0' ind2=' ' tag='130'>
+        <subfield code='a'>Belle (Motion picture)</subfield>
+      </datafield>
+      <datafield ind1='1' ind2='0' tag='245'>
+        <subfield code='a'>Belle /</subfield>
+        <subfield code='c'>Fox Searchlight Pictures, Isle of Man Film and Pinewood Pictures and BFI present ; in association with Head Gear Films and Metrol Technology ; a DJ Films production ; an Amma Asante film ; produced by Damian Jones ; written by Misan Sagay ; directed by Amma Asante.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='257'>
+        <subfield code='a'>Great Britain</subfield>
+        <subfield code='2'>naf</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2='1' tag='264'>
+        <subfield code='a'>Beverly Hills, California :</subfield>
+        <subfield code='b'>20th Century Fox Home Entertainment,</subfield>
+        <subfield code='c'>[2014]</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='300'>
+        <subfield code='a'>1 videodisc (104 min.) :</subfield>
+        <subfield code='b'>sound, color ;</subfield>
+        <subfield code='c'>4 3/4 in.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='336'>
+        <subfield code='a'>two-dimensional moving image</subfield>
+        <subfield code='b'>tdi</subfield>
+        <subfield code='2'>rdacontent</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='337'>
+        <subfield code='a'>video</subfield>
+        <subfield code='b'>v</subfield>
+        <subfield code='2'>rdamedia</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='338'>
+        <subfield code='a'>videodisc</subfield>
+        <subfield code='b'>vd</subfield>
+        <subfield code='2'>rdacarrier</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='344'>
+        <subfield code='a'>digital</subfield>
+        <subfield code='b'>optical</subfield>
+        <subfield code='g'>surround</subfield>
+        <subfield code='h'>DTS-HD Master Audio 5.1</subfield>
+        <subfield code='h'>Dolby Digital 5.1</subfield>
+        <subfield code='2'>rda</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='347'>
+        <subfield code='a'>video file</subfield>
+        <subfield code='b'>Blu-ray</subfield>
+        <subfield code='2'>rda</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='500'>
+        <subfield code='a'>Audio and subtitle listings on container differ from content on disc.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='500'>
+        <subfield code='a'>Originally released as a motion picture in 2013.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='500'>
+        <subfield code='a'>Run time: approx. 104 min.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='500'>
+        <subfield code='a'>Special features: &quot;Belle: the story&quot; ; Gugu Mbatha-Raw breakout role ; The power of Belle ; From painting to screen ; The history behind the painting ; still gallery ; theatrical trailer.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='508'>
+        <subfield code='a'>Director of photography, Ben Smithard ; editors, Pia di Ciaula, Victoria Boydell ; music, Rachel Portman.</subfield>
+      </datafield>
+      <datafield ind1='1' ind2=' ' tag='511'>
+        <subfield code='a'>Gugu Mbatha-Raw, Tom Wilkinson, Emily Watson, Sam Reid, Sarah Gadon, Miranda Richardson, Penelope Wilton, Matthew Goode.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='520'>
+        <subfield code='a'>Although Dido Elizabeth Belle, an eighteenth-century English woman of mixed race, is raised in privilege by her aristocratic great-uncle and his wife, she is denied a proper social standing because of her skin color. But when Dido falls in love with a young idealist lawyer who aspires to create positive change, she finds herself caught between two worlds.</subfield>
+      </datafield>
+      <datafield ind1='8' ind2=' ' tag='521'>
+        <subfield code='a'>MPAA rating: PG; for thematic elements, some language and brief smoking images.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='538'>
+        <subfield code='a'>Blu-ray Disc; widescreen (2.39:1) presentation; DTS-HD Master Audio 5.1, English descriptive audio 5.1, Dolby Digital 5.1; requires Blu-ray player.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='546'>
+        <subfield code='a'>Soundtracks in English and dubbed Spanish, French, Portuguese and Turkish. Optional  subtitles in Bulgarian, Chinese, Croatian, Hebrew, Hindi, Icelandic, Korean, Polish, Portuguese, Romanian, Serbian, Slovenian, Spanish and Turkish. Also with optional English subtitles for the deaf and hard of hearing (SDH); English-described video.</subfield>
+      </datafield>
+      <datafield ind1='1' ind2='0' tag='600'>
+        <subfield code='a'>Belle, Dido Elizabeth,</subfield>
+        <subfield code='d'>1761-1804</subfield>
+        <subfield code='v'>Drama.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2='0' tag='650'>
+        <subfield code='a'>Racially mixed people</subfield>
+        <subfield code='z'>England</subfield>
+        <subfield code='v'>Biography</subfield>
+        <subfield code='v'>Drama.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2='0' tag='650'>
+        <subfield code='a'>Antislavery movements</subfield>
+        <subfield code='z'>England</subfield>
+        <subfield code='x'>History</subfield>
+        <subfield code='y'>18th century</subfield>
+        <subfield code='v'>Drama.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2='7' tag='655'>
+        <subfield code='a'>Drama.</subfield>
+        <subfield code='2'>local</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2='7' tag='655'>
+        <subfield code='a'>Historical films.</subfield>
+        <subfield code='2'>lcgft</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2='7' tag='655'>
+        <subfield code='a'>Feature films.</subfield>
+        <subfield code='2'>lcgft</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2='7' tag='655'>
+        <subfield code='a'>Fiction films.</subfield>
+        <subfield code='2'>lcgft</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2='7' tag='655'>
+        <subfield code='a'>Video recordings for the hearing impaired.</subfield>
+        <subfield code='2'>lcgft</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2='7' tag='655'>
+        <subfield code='a'>Video recordings for people with visual disabilities.</subfield>
+        <subfield code='2'>lcgft</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2='7' tag='655'>
+        <subfield code='a'>Drama.</subfield>
+        <subfield code='2'>local</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2='7' tag='655'>
+        <subfield code='a'>British Cinema.</subfield>
+        <subfield code='2'>local</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2='7' tag='655'>
+        <subfield code='a'>Foreign films</subfield>
+        <subfield code='z'>Great Britain.</subfield>
+        <subfield code='2'>local</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2='7' tag='690'>
+        <subfield code='a'>Race Relations and Stereotypes.</subfield>
+        <subfield code='2'>local</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2='7' tag='690'>
+        <subfield code='a'>Social Conditions.</subfield>
+        <subfield code='2'>local</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2='7' tag='690'>
+        <subfield code='a'>Slavery.</subfield>
+        <subfield code='2'>local</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='691'>
+        <subfield code='a'>Great Britain.</subfield>
+      </datafield>
+      <datafield ind1='1' ind2=' ' tag='700'>
+        <subfield code='a'>Asante, Amma,</subfield>
+        <subfield code='d'>1969-</subfield>
+        <subfield code='e'>film director.</subfield>
+      </datafield>
+      <datafield ind1='1' ind2=' ' tag='700'>
+        <subfield code='a'>Jones, Damian,</subfield>
+        <subfield code='d'>1964-</subfield>
+        <subfield code='e'>film producer.</subfield>
+      </datafield>
+      <datafield ind1='1' ind2=' ' tag='700'>
+        <subfield code='a'>Sagay, Misan,</subfield>
+        <subfield code='e'>screenwriter.</subfield>
+      </datafield>
+      <datafield ind1='1' ind2=' ' tag='700'>
+        <subfield code='a'>Mbatha-Raw, Gugu,</subfield>
+        <subfield code='d'>1983-</subfield>
+        <subfield code='e'>actor.</subfield>
+      </datafield>
+      <datafield ind1='1' ind2=' ' tag='700'>
+        <subfield code='a'>Wilkinson, Tom,</subfield>
+        <subfield code='d'>1948-</subfield>
+        <subfield code='e'>actor.</subfield>
+      </datafield>
+      <datafield ind1='1' ind2=' ' tag='700'>
+        <subfield code='a'>Watson, Emily,</subfield>
+        <subfield code='d'>1967-</subfield>
+        <subfield code='e'>actor.</subfield>
+      </datafield>
+      <datafield ind1='1' ind2=' ' tag='700'>
+        <subfield code='a'>Reid, Sam,</subfield>
+        <subfield code='d'>1987-</subfield>
+        <subfield code='e'>actor.</subfield>
+      </datafield>
+      <datafield ind1='1' ind2=' ' tag='700'>
+        <subfield code='a'>Gadon, Sarah,</subfield>
+        <subfield code='d'>1987-</subfield>
+        <subfield code='e'>actor.</subfield>
+      </datafield>
+      <datafield ind1='1' ind2=' ' tag='700'>
+        <subfield code='a'>Richardson, Miranda,</subfield>
+        <subfield code='e'>actor.</subfield>
+      </datafield>
+      <datafield ind1='1' ind2=' ' tag='700'>
+        <subfield code='a'>Wilton, Penelope,</subfield>
+        <subfield code='d'>1946-</subfield>
+        <subfield code='e'>actor.</subfield>
+      </datafield>
+      <datafield ind1='1' ind2=' ' tag='700'>
+        <subfield code='a'>Goode, Matthew,</subfield>
+        <subfield code='d'>1978-</subfield>
+        <subfield code='e'>actor.</subfield>
+      </datafield>
+      <datafield ind1='2' ind2=' ' tag='710'>
+        <subfield code='a'>Fox Searchlight Pictures,</subfield>
+        <subfield code='e'>production company.</subfield>
+      </datafield>
+      <datafield ind1='2' ind2=' ' tag='710'>
+        <subfield code='a'>Isle of Man Film Limited,</subfield>
+        <subfield code='e'>production company.</subfield>
+      </datafield>
+      <datafield ind1='2' ind2=' ' tag='710'>
+        <subfield code='a'>Pinewood Studios,</subfield>
+        <subfield code='e'>production company.</subfield>
+      </datafield>
+      <datafield ind1='2' ind2=' ' tag='710'>
+        <subfield code='a'>British Film Institute,</subfield>
+        <subfield code='e'>production company.</subfield>
+      </datafield>
+      <datafield ind1='2' ind2=' ' tag='710'>
+        <subfield code='a'>Twentieth Century Fox Home Entertainment, Inc.,</subfield>
+        <subfield code='e'>film distributor.</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='915'>
+        <subfield code='9'>Under Authority Control</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2='1' tag='949'>
+        <subfield code='a'>65-BLU159</subfield>
+        <subfield code='z'>099 9</subfield>
+        <subfield code='g'>1</subfield>
+        <subfield code='i'>00048436968</subfield>
+        <subfield code='l'>uldal</subfield>
+        <subfield code='s'>o</subfield>
+        <subfield code='n'>tad</subfield>
+        <subfield code='t'>70</subfield>
+        <subfield code='h'>15</subfield>
+        <subfield code='u'>-</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2='1' tag='949'>
+        <subfield code='a'>65-BLU159</subfield>
+        <subfield code='z'>099 9</subfield>
+        <subfield code='g'>2</subfield>
+        <subfield code='i'>00048436977</subfield>
+        <subfield code='l'>ulbr</subfield>
+        <subfield code='n'>tad</subfield>
+        <subfield code='t'>70</subfield>
+        <subfield code='h'>15</subfield>
+        <subfield code='u'>-</subfield>
+      </datafield>
+      <datafield ind1=' ' ind2=' ' tag='994'>
+        <subfield code='a'>C0</subfield>
+        <subfield code='b'>NOC</subfield>
+      </datafield>
+      <datafield ind1='9' ind2='1' tag='999'>
+        <subfield code='i'>i10468982</subfield>
+        <subfield code='l'>ulbr</subfield>
+        <subfield code='s'>-</subfield>
+        <subfield code='t'>70</subfield>
+        <subfield code='c'>2</subfield>
+        <subfield code='o'>31</subfield>
+        <subfield code='b'>00048436977</subfield>
+        <subfield code='p'>099</subfield>
+        <subfield code='q'>|a65-BLU159</subfield>
+      </datafield>
+      <datafield ind1='9' ind2='1' tag='999'>
+        <subfield code='i'>i10468981</subfield>
+        <subfield code='l'>uldal</subfield>
+        <subfield code='s'>o</subfield>
+        <subfield code='t'>70</subfield>
+        <subfield code='c'>1</subfield>
+        <subfield code='o'>5</subfield>
+        <subfield code='b'>00048436968</subfield>
+        <subfield code='p'>099</subfield>
+        <subfield code='q'>|a65-BLU159</subfield>
+      </datafield>
+  </record>
+</collection>
