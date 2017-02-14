@@ -19,3 +19,6 @@ Holding place for records to support automated testing of data transformation pr
 | b1246383 | 787 with i |
 | b1311358 | 787at, rep field |
 | b5884455 | 787st (both) |
+| b1082803 | 700ee |
+| b1146036 | 70044 |
+| b1184423 | 700e4 duplicate relators |
