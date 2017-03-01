@@ -1,6 +1,7 @@
 # data-tests-UNC
 Holding place for records to support automated testing of data transformation processes
 
+These were included in 2017-02 10,000K record set for seeding initial Argon instance. Also included in this: all bnums identified by CDETS team in format census.
 | bnum | included because |
 | ---- | ---------------- |
 | b7901925 | 344abghh |
@@ -22,3 +23,10 @@ Holding place for records to support automated testing of data transformation pr
 | b1082803 | 700ee |
 | b1146036 | 70044 |
 | b1184423 | 700e4 duplicate relators |
+
+
+More...
+
+| bnum | included because |
+| ---- | ---------------- |
+|b7886842 | Vernacular 100 has $0, $4 |
