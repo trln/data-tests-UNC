@@ -30,4 +30,15 @@ More...
 
 | bnum | included because |
 | ---- | ---------------- |
-|b7886842 | Vernacular 100 has $0, $4 |
+| b7886842 | Vernacular 100 has $0, $4 |
+| b5181946 | Vernacular 100 (and regular 100) have $t, $f |
+| b7664745 | SerialsSolutions brief record with vernacular in 130, 245 fields |
+| b3340170 | 110 has $g that belongs in title portion ($g + $t) |
+| b1049964 | 110 has $d that belongs in author portion (no $t) |
+| b8364481 | 100 has $g that belongs in author portion (no $t) |
+| b3339996 | 110 has $d that belongs in title portion ($d + $t) |
+| b6507133 | 110 has $g that belongs in author portion (no $t) |
+| b1055562 | 110 has $n that belongs in author portion (no $t) |
+| b4973962 | 110 has $n that belongs in title portion (no $t, but after $k) |
+| b6869637 | 786 field present |
+| b6426505 | 787 field present |
